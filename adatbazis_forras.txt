@@ -1,0 +1,1 @@
+Saját adatbázis, a nem fiktív adatokat a tradingview.com-ról szereztem.
